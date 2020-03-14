@@ -8,4 +8,4 @@
 > express-session, axios, vuex
 
 ## Preview
-![alt text](assets/images/preview.jpg "Logo Title Text 1")
+![alt text](assets/images/preview-image.jpg "Logo Title Text 1")
